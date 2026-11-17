@@ -45,8 +45,8 @@
             tap-ms = <20>;
             //cw-binding = <&msc SCRL_DOWN>;
             //ccw-binding = <&msc SCRL_UP>;
-            cw-binding = <&msc SCRL_DOWN>;
-            ccw-binding = <&msc SCRL_UP>;
+            cw-binding = <&msc SCRL_UP>;
+            ccw-binding = <&msc SCRL_DOWN>;
         };
     };
 
